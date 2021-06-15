@@ -103,7 +103,7 @@ class BaseSTSEvaluator():
             distances = [np.linalg.norm(v[1]-v[0])
                 for v in zip(sentences_a_emb, sentences_b_emb)]
             #similarities = max(distances) - distances
-            similarities = 1 / (1 + distances)
+            similarities = 1 / (1 + np.array(distances))
         elif metric == "cosine":
             similarities = [np.dot(a,b) / (np.linalg.norm(a) * np.linalg.norm(a)) 
                             for a,b in zip(sentences_a_emb, sentences_b_emb)]
