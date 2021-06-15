@@ -4,10 +4,10 @@ This is a small framework aimed to make easy the evaluation of Language Models w
 
 The framework wraps models from different sources and runs the selected evaluation with them, producing a standarized JSON output.
 
-Models can be sources from:
+Models can be sourced from:
 
-- [Tensorflow Hub Embedding models](https://tfhub.dev/s?module-type=text-embedding)
-- [Sentence Transformers](https://www.sbert.net/docs/pretrained_models.html)
+- [Tensorflow Hub, Embedding models](https://tfhub.dev/s?module-type=text-embedding)
+- [SBERT Sentence Transformers](https://www.sbert.net/docs/pretrained_models.html)
 - [HuggingFace models](https://huggingface.co/models) - IN DEVELOPMENT!!!
 
 Output JSON example:
@@ -50,8 +50,8 @@ Clone this repo, then you can build a docker image with all dependecies already 
 - Benchmark: See below for available datasets
 	- `stsbenchmark`
 	- `sts-es` 2017 Spanish to Spanish 
-- Optional, similarity metric: `cosine` (default) or `euclidean`. Euclidean similarity defined as `1 / (1 + euclidean_distance)`
-- Optional, tag: any tag that may help you to identify this particular run.
+- *Optional*, similarity metric: `cosine` (default) or `euclidean`. Euclidean similarity defined as `1 / (1 + euclidean_distance)`
+- *Optional*, tag: any tag that may help you to identify this particular run.
 
 ```
 tf-docker /root > python sts_evaluation.py sent stsb-roberta-base-v2 stsbenchmark cosine 2> /dev/null 1> results/stsb--stsb-roberta-base-v2.json cosine 
