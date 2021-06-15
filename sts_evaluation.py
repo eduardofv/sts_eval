@@ -24,7 +24,15 @@ from src.hf_sts_evaluator import HuggingfaceAutoMLSTSEvaluator
 
 
 benchmarks = {
-    'stsbenchmark': {
+    'stsb-test': {
+        'filename': "data/stsbenchmark/sts-test.csv",
+        'loader': stsev.load_stsbenchmark
+    },
+    'stsb-train': {
+        'filename': "data/stsbenchmark/sts-train.csv",
+        'loader': stsev.load_stsbenchmark
+    },
+    'stsb-dev': {
         'filename': "data/stsbenchmark/sts-dev.csv",
         'loader': stsev.load_stsbenchmark
     },
@@ -42,8 +50,8 @@ evaluators = {
     'hf': HuggingfaceAutoMLSTSEvaluator
 }
 
-def add_benchmark(name, config):
-    benchmarks[name] = config 
+def add_benchmark(config):
+    benchmarks.update(config)
 
 def perform_evaluation(evaluator_type, url, benchmark, metric="cosine", tag=""):
     """Executes the evaluation process for the corresponding evaluator"""
