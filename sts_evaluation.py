@@ -6,6 +6,7 @@ This was adapted from analysis/STS%20Evaluation%20for%20Language%20Models.ipynb
 
 import json
 import logging
+import os
 import sys
 
 logging.basicConfig(level=logging.CRITICAL)
@@ -41,12 +42,17 @@ evaluators = {
     'hf': HuggingfaceAutoMLSTSEvaluator
 }
 
+def add_benchmark(name, config):
+    benchmarks[name] = config 
+
 def perform_evaluation(evaluator_type, url, benchmark, metric="cosine", tag=""):
     """Executes the evaluation process for the corresponding evaluator"""
     assert benchmark in benchmarks.keys()
     assert evaluator_type in evaluators.keys()
     assert metric in metrics
 
+    curr_dir = os.path.dirname(os.path.realpath(__file__))
+    filename = os.path.join(curr_dir, benchmarks[benchmark]['filename'])
     #url is a list if both URLs to model and to tokenizer are needed
     evaluator = evaluators[evaluator_type]
     if isinstance(url, list):
@@ -54,7 +60,7 @@ def perform_evaluation(evaluator_type, url, benchmark, metric="cosine", tag=""):
     else:
         ev = evaluator(url)
     ev.perform_sts_evaluation(
-        benchmarks[benchmark]['filename'], 
+        filename,
         benchmarks[benchmark]['loader'],
         metric=metric
     )
