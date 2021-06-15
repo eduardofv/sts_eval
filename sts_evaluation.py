@@ -70,7 +70,7 @@ def perform_evaluation(evaluator_type, url, benchmark, metric="cosine", tag=""):
     return ret
 
 
-if __name__ == "__main__":
+def main():
     if len(sys.argv) < 3:
         print(f"""
 Perform a STS Evaluation for a Language model
@@ -84,3 +84,7 @@ Usage: sts_evaluation.py evaluator model benchmark [metric] [tag]
 """)
     else:
         print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+
+
+if __name__ == "__main__":
+    main()
