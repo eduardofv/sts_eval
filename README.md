@@ -32,10 +32,25 @@ Output JSON example:
     },
     "timestamp": "2021-06-14 23:13:05",
     "metadata": [],
-    "tag": "cosine",
+    "tag": "stsb--roberta_base_v2-cosine",
     "benchmark": "stsbenchmark"
 }
 ```
+
+### Main Goal: Extension to other evaluation datasets
+
+The main goal of this framework is to help in the evaluation of Language Models for other context-specific tasks. 
+
+**TODO** Example with STS for product names or ad titles
+
+### Evaluation Results
+
+Check [this notebook](Language\ Model\ STS\ Evaluation.ipynb) for the current results of evaluating several LMs in the standard datasets and in the context-specific example. This results closely resembles the ones published in [PapersWithCode](https://paperswithcode.com/sota/semantic-textual-similarity-on-sts-benchmark) and [SBERT Pretrained Models](https://www.sbert.net/docs/pretrained_models.html)
+
+![STSBenchmark results](img/stsb-spearman.png)
+
+![STS-2017-es-es results](img/stses-spearman.png)
+
 
 ## Usage
 

@@ -17,6 +17,6 @@
     },
     "timestamp": "2021-06-14 23:31:45",
     "metadata": [],
-    "tag": "cosine",
+    "tag": "avg_glove_6B_300d-stsb-cos",
     "benchmark": "stsbenchmark"
 }

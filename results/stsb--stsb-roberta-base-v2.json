@@ -17,6 +17,6 @@
     },
     "timestamp": "2021-06-14 23:33:49",
     "metadata": [],
-    "tag": "cosine",
+    "tag": "stsb_roberta_base_2-stsb-cos",
     "benchmark": "stsbenchmark"
 }
