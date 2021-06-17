@@ -45,7 +45,7 @@ The main goal of this framework is to help in the evaluation of Language Models 
 
 ### Evaluation Results
 
-Check [./LanguageModelsSTSEvaluation.ipynb] for the current results of evaluating several LMs in the standard datasets and in the context-specific example. This results closely resembles the ones published in [PapersWithCode](https://paperswithcode.com/sota/semantic-textual-similarity-on-sts-benchmark) and [SBERT Pretrained Models](https://www.sbert.net/docs/pretrained_models.html)
+Check [../LanguageModelsSTSEvaluation.ipynb] for the current results of evaluating several LMs in the standard datasets and in the context-specific example. This results closely resembles the ones published in [PapersWithCode](https://paperswithcode.com/sota/semantic-textual-similarity-on-sts-benchmark) and [SBERT Pretrained Models](https://www.sbert.net/docs/pretrained_models.html)
 
 ![STSBenchmark results](img/stsb-spearman.png)
 
