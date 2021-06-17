@@ -49,7 +49,7 @@ def plot_benchmark(bmark_df, title, savefile=""):
     annotate_barh(ax)
     plt.title(title)
     if savefile:
-        plt.savefig(savefile)
+        plt.savefig(savefile, facecolor='white')
 
         
 #from https://stackoverflow.com/questions/1855884/determine-font-color-based-on-background-color
