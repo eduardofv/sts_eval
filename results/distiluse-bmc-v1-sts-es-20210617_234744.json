@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "distiluse-base-multilingual-cased-v1",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8554047330334217,
+            "p-value": 8.259801267130045e-73
+        },
+        "spearman": {
+            "rho": 0.8567322712777388,
+            "p-value": 2.871534350828723e-73
+        }
+    },
+    "timestamp": "2021-06-17 23:47:48",
+    "metadata": [],
+    "tag": "distiluse-bmc-v1",
+    "benchmark": "sts-es"
+}

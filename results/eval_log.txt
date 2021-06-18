@@ -1,0 +1,1024 @@
+2021-06-17 23:35:22.611412: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:35:23.503604: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:35:23.503628: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:35:23.503642: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:35:25.618847: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:35:25.657135: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:35:25.657797: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:35:25.666036: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 500039680 exceeds 10% of free system memory.
+2021-06-17 23:35:26.663690: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:35:27.568204: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:35:27.568251: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:35:27.568265: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:35:29.668920: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:35:29.703192: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:35:29.704022: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:35:30.583511: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:35:31.497509: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:35:31.497559: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:35:31.497572: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:35:33.720136: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:35:34.781442: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:35:34.816559: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:35:37.037282: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:35:37.940499: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:35:37.940547: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:35:37.940561: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:35:40.709926: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:35:43.748986: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:35:43.820534: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:35:53.999554: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:35:54.968408: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:35:54.968439: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:35:54.968453: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:36:26.778949: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:36:27.801359: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:36:27.801391: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:36:27.801405: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:37:00.855904: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:37:01.879730: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:37:01.879761: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:37:01.879775: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:37:18.710223: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:37:19.743106: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:37:19.743140: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:37:19.743155: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:37:36.755024: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:37:37.731259: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:37:37.731290: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:37:37.731305: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:38:07.193849: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:38:08.172112: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:38:08.172146: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:38:08.172161: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:38:40.712825: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:38:41.763850: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:38:41.763883: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:38:41.763901: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:38:55.944237: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:38:56.919249: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:38:56.919279: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:38:56.919294: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-17 23:38:59.761391: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:39:00.725375: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:39:00.725407: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:39:00.725421: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-17 23:39:03.542571: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:39:04.502567: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:39:04.502597: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:39:04.502611: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Some weights of the model checkpoint at /.cache/torch/sentence_transformers/sbert.net_models_stsb-bert-large/0_BERT were not used when initializing BertModel: ['classifier.bias', 'classifier.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+2021-06-17 23:40:36.324270: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:40:37.358925: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:40:37.358958: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:40:37.358978: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:40:39.672843: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:40:39.713254: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:40:39.713965: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:40:39.722872: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 500039680 exceeds 10% of free system memory.
+2021-06-17 23:40:40.761140: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:40:41.728565: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:40:41.728603: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:40:41.728618: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:40:43.993967: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:40:44.031175: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:40:44.031805: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:40:44.942916: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:40:45.896698: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:40:45.896728: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:40:45.896741: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:40:48.251836: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:40:49.396756: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:40:49.432509: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:40:51.960070: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:40:53.284143: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:40:53.284175: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:40:53.284189: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:40:56.202467: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:40:59.400675: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:40:59.476534: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:41:11.511448: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:41:12.476395: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:41:12.476428: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:41:12.476445: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:41:52.010266: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:41:53.061528: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:41:53.061569: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:41:53.061584: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:42:34.125831: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:42:35.146985: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:42:35.147017: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:42:35.147032: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:42:55.103590: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:42:56.086935: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:42:56.086966: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:42:56.086981: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:43:16.287433: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:43:17.335573: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:43:17.335606: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:43:17.335622: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:43:53.528831: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:43:54.508619: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:43:54.508651: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:43:54.508664: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:44:33.895051: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:44:34.870264: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:44:34.870309: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:44:34.870323: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:44:51.254815: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:44:52.231128: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:44:52.231161: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:44:52.231188: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-17 23:44:55.082496: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:44:56.051681: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:44:56.051712: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:44:56.051726: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-17 23:44:58.878211: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:44:59.835809: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:44:59.835840: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:44:59.835853: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Some weights of the model checkpoint at /.cache/torch/sentence_transformers/sbert.net_models_stsb-bert-large/0_BERT were not used when initializing BertModel: ['classifier.bias', 'classifier.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+2021-06-17 23:46:55.025500: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:46:56.004559: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:46:56.004588: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:46:56.004602: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:46:58.297322: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:46:58.337620: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:46:58.338327: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:46:58.347122: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 500039680 exceeds 10% of free system memory.
+2021-06-17 23:46:59.382840: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:00.348850: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:00.348880: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:00.348907: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:47:02.618527: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:47:02.655791: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:47:02.656513: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:47:03.560067: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:04.527894: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:04.527933: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:04.527949: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:47:06.891770: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:47:08.033988: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:47:08.068460: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:47:09.614129: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:10.575074: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:10.575104: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:10.575118: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:47:13.553440: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:47:17.028392: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:47:17.104303: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:47:20.662022: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:21.616071: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:21.616105: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:21.616119: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:47:32.429610: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:33.391201: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:33.391232: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:33.391246: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:47:44.502125: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:45.509542: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:45.509574: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:45.509589: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:47:51.696660: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:52.657995: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:52.658026: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:52.658041: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:47:58.994340: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:47:59.956266: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:47:59.956299: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:47:59.956319: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:48:09.036449: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:48:10.044616: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:48:10.044648: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:48:10.044663: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:48:20.497679: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:48:21.604741: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:48:21.604784: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:48:21.604805: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:48:27.951996: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:48:28.944538: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:48:28.944573: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:48:28.944588: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-17 23:48:31.760245: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:48:32.708111: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:48:32.708141: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:48:32.708155: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-17 23:48:35.523750: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:48:36.516281: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:48:36.516314: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:48:36.516328: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Some weights of the model checkpoint at /.cache/torch/sentence_transformers/sbert.net_models_stsb-bert-large/0_BERT were not used when initializing BertModel: ['classifier.weight', 'classifier.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+2021-06-17 23:49:00.217993: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:01.241415: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:01.241448: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:01.241463: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:49:03.555884: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:49:03.596050: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:49:03.596792: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:49:03.605502: W tensorflow/core/framework/cpu_allocator_impl.cc:80] Allocation of 500039680 exceeds 10% of free system memory.
+2021-06-17 23:49:04.656565: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:05.662039: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:05.662072: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:05.662093: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:49:07.957379: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:49:07.994244: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:49:07.994862: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:49:08.920608: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:09.914743: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:09.914779: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:09.914793: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:49:12.275832: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:49:13.753594: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:49:13.788432: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:49:15.372648: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:16.362615: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:16.362662: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:16.362676: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+INFO:absl:Using /root/cache/tfhub to cache modules.
+2021-06-17 23:49:19.289505: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-17 23:49:22.451322: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-17 23:49:22.528568: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-17 23:49:26.232858: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:27.221584: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:27.221617: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:27.221632: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:49:40.385597: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:41.387704: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:41.387735: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:41.387749: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:49:54.511215: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:49:55.469293: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:49:55.469326: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:49:55.469341: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:50:02.971265: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:03.977895: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:03.977926: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:03.977941: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim128-with-normalization/2 stsb-test cosine NNLM128esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim50-with-normalization/2 stsb-test cosine NNLM50esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual/3 stsb-test cosine USEM_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3 stsb-test cosine USEML_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-xlm-r-multilingual stsb-test cosine stsb-xlm-r-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-xlm-r-multilingual-v1 stsb-test cosine pp-xlm-m-r
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent distiluse-base-multilingual-cased-v1 stsb-test cosine distiluse-bmc-v1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent quora-distilbert-multilingual stsb-test cosine q-distilbert-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-mpnet-base-v2 stsb-test cosine pp-mpnet-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-mpnet-base-v2 stsb-test cosine pp-mpnet-m-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-MiniLM-L12-v2 stsb-test cosine pp-minilm-m-l12v2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm stsb-test cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm stsb-test cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-bert-large stsb-test cosine bert-l
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim128-with-normalization/2 stsb-dev cosine NNLM128esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim50-with-normalization/2 stsb-dev cosine NNLM50esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual/3 stsb-dev cosine USEM_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3 stsb-dev cosine USEML_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-xlm-r-multilingual stsb-dev cosine stsb-xlm-r-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-xlm-r-multilingual-v1 stsb-dev cosine pp-xlm-m-r
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent distiluse-base-multilingual-cased-v1 stsb-dev cosine distiluse-bmc-v1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent quora-distilbert-multilingual stsb-dev cosine q-distilbert-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-mpnet-base-v2 stsb-dev cosine pp-mpnet-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-mpnet-base-v2 stsb-dev cosine pp-mpnet-m-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-MiniLM-L12-v2 stsb-dev cosine pp-minilm-m-l12v2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm stsb-dev cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm stsb-dev cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-bert-large stsb-dev cosine bert-l
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim128-with-normalization/2 sts-es cosine NNLM128esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim50-with-normalization/2 sts-es cosine NNLM50esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual/3 sts-es cosine USEM_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3 sts-es cosine USEML_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-xlm-r-multilingual sts-es cosine stsb-xlm-r-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-xlm-r-multilingual-v1 sts-es cosine pp-xlm-m-r
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent distiluse-base-multilingual-cased-v1 sts-es cosine distiluse-bmc-v1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent quora-distilbert-multilingual sts-es cosine q-distilbert-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-mpnet-base-v2 sts-es cosine pp-mpnet-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-mpnet-base-v2 sts-es cosine pp-mpnet-m-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-MiniLM-L12-v2 sts-es cosine pp-minilm-m-l12v2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm sts-es cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm sts-es cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-bert-large sts-es cosine bert-l
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim128-with-normalization/2 stsjobtitle-test cosine NNLM128esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/nnlm-es-dim50-with-normalization/2 stsjobtitle-test cosine NNLM50esn_2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual/3 stsjobtitle-test cosine USEM_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3 stsjobtitle-test cosine USEML_3
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-xlm-r-multilingual stsjobtitle-test cosine stsb-xlm-r-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-xlm-r-multilingual-v1 stsjobtitle-test cosine pp-xlm-m-r
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent distiluse-base-multilingual-cased-v1 stsjobtitle-test cosine distiluse-bmc-v1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent quora-distilbert-multilingual stsjobtitle-test cosine q-distilbert-m
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-mpnet-base-v2 stsjobtitle-test cosine pp-mpnet-b2
+2021-06-17 23:50:11.284602: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:12.254331: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:12.254362: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:12.254380: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:50:23.698402: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:24.668816: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:24.668848: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:24.668862: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:50:37.158159: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:38.130241: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:38.130276: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:38.130291: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+2021-06-17 23:50:45.267726: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:46.231905: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:46.231940: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:46.231959: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-17 23:50:49.060722: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:50.020926: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:50.020960: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:50.020974: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-17 23:50:52.847439: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-17 23:50:53.786689: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-17 23:50:53.786719: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-17 23:50:53.786733: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (4ea3e9baa909): /proc/driver/nvidia/version does not exist
+Some weights of the model checkpoint at /.cache/torch/sentence_transformers/sbert.net_models_stsb-bert-large/0_BERT were not used when initializing BertModel: ['classifier.weight', 'classifier.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-mpnet-base-v2 stsjobtitle-test cosine pp-mpnet-m-b2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent paraphrase-multilingual-MiniLM-L12-v2 stsjobtitle-test cosine pp-minilm-m-l12v2
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm stsjobtitle-test cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub ../saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm stsjobtitle-test cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py sent stsb-bert-large stsjobtitle-test cosine bert-l
+Finished with code 0
+------
+2021-06-18 02:10:09.783382: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:10.697468: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:10.697518: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:10.697532: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-18 02:10:13.362882: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:14.260584: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:14.260635: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:14.260648: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-18 02:10:16.862525: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:17.753216: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:17.753264: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:17.753277: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-18 02:10:20.324268: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:21.214269: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:21.214317: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:21.214330: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-18 02:10:23.820312: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:24.711981: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:24.712029: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:24.712043: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-18 02:10:27.334634: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:28.229601: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:28.229636: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:28.235473: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+2021-06-18 02:10:30.863625: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:31.755379: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:31.755434: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:31.755448: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm does not exist.
+2021-06-18 02:10:34.381993: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:10:35.279530: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:10:35.279560: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:10:35.279573: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+Traceback (most recent call last):
+  File "scripts/run_sts_evaluation.py", line 14, in <module>
+    sts_evaluation.main()
+  File "sts_eval/sts_evaluation.py", line 94, in main
+    print(json.dumps(perform_evaluation(*sys.argv[1:]), indent=4))
+  File "sts_eval/sts_evaluation.py", line 69, in perform_evaluation
+    ev = evaluator(url)
+  File "sts_eval/src/language_model_sts_evaluator.py", line 51, in __init__
+    self.__build_model__()
+  File "sts_eval/src/basic_tfhub_sts_evaluator.py", line 8, in __build_model__
+    self.model = hub.load(self.model_url)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 92, in load
+    module_path = resolve(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/module_v2.py", line 47, in resolve
+    return registry.resolver(handle)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/registry.py", line 51, in __call__
+    return impl(*args, **kwargs)
+  File "/usr/local/lib/python3.6/dist-packages/tensorflow_hub/resolver.py", line 496, in __call__
+    raise IOError("%s does not exist." % handle)
+OSError: saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm does not exist.
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm stsb-test cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm stsb-test cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm stsb-dev cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm stsb-dev cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm sts-es cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm sts-es cosine USEML3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEM3-FineTune-v1_0-210421_1047/lm stsjobtitle-test cosine USEM3FT-1
+Finished with code 1
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/testRN-USEML3-FineTune-v1_0-210427_1100/lm stsjobtitle-test cosine USEML3FT-1
+Finished with code 1
+------
+2021-06-18 02:21:38.112816: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:21:39.015117: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:21:39.015166: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:21:39.015180: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:21:41.210053: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:21:42.990423: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:21:43.024604: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:21:45.153436: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:21:46.059034: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:21:46.059082: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:21:46.059096: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:21:48.522626: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:21:53.551462: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:21:53.624647: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:22:03.728392: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:22:04.647046: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:22:04.647076: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:22:04.647089: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:22:06.905658: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:22:08.417999: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:22:08.452603: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:22:10.795141: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:22:11.712816: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:22:11.712863: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:22:11.712877: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:22:14.233543: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:22:18.955535: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:22:19.028498: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:22:30.549331: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:22:31.501998: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:22:31.502028: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:22:31.502042: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:22:33.816791: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:22:35.355555: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:22:35.388635: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:22:36.865847: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:22:37.809853: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:22:37.809884: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:22:37.809898: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:22:40.375015: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:22:45.190556: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:22:45.264294: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:22:48.818926: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:22:49.770386: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:22:49.770427: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:22:49.770442: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:22:52.083842: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:22:53.628089: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:22:53.664530: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+2021-06-18 02:22:55.152658: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcudart.so.11.0
+2021-06-18 02:22:56.076186: I tensorflow/stream_executor/platform/default/dso_loader.cc:53] Successfully opened dynamic library libcuda.so.1
+2021-06-18 02:22:56.076216: E tensorflow/stream_executor/cuda/cuda_driver.cc:328] failed call to cuInit: UNKNOWN ERROR (34)
+2021-06-18 02:22:56.076230: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (c8c04aa68def): /proc/driver/nvidia/version does not exist
+2021-06-18 02:22:58.650939: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2021-06-18 02:23:03.494151: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:176] None of the MLIR Optimization Passes are enabled (registered 2)
+2021-06-18 02:23:03.568474: I tensorflow/core/platform/profile_utils/cpu_utils.cc:114] CPU Frequency: 2599990000 Hz
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEM3FT-1 stsb-test cosine USEM3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEML3FT-1 stsb-test cosine USEML3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEM3FT-1 stsb-dev cosine USEM3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEML3FT-1 stsb-dev cosine USEML3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEM3FT-1 sts-es cosine USEM3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEML3FT-1 sts-es cosine USEML3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEM3FT-1 stsjobtitle-test cosine USEM3FT-1
+Finished with code 0
+------
+-----
+Starting: python -u scripts/run_sts_evaluation.py tfhub saved_models/USEML3FT-1 stsjobtitle-test cosine USEML3FT-1
+Finished with code 0
+------

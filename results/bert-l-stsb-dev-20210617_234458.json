@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "stsb-bert-large",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8794371160779011,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.8804768559541498,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2021-06-17 23:45:04",
+    "metadata": [],
+    "tag": "bert-l",
+    "benchmark": "stsb-dev"
+}

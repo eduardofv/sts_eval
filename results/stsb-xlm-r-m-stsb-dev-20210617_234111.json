@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "stsb-xlm-r-multilingual",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8571077246753874,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.8599902243965947,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2021-06-17 23:41:18",
+    "metadata": [],
+    "tag": "stsb-xlm-r-m",
+    "benchmark": "stsb-dev"
+}

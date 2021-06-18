@@ -1,0 +1,22 @@
+{
+    "class": "BasicTFHubSTSEvaluator",
+    "model_url": "https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-test.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8185353643218573,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.8089710651354896,
+            "p-value": 5.0434e-320
+        }
+    },
+    "timestamp": "2021-06-17 23:35:43",
+    "metadata": [],
+    "tag": "USEML_3",
+    "benchmark": "stsb-test"
+}

@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "distiluse-base-multilingual-cased-v1",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8140109929428618,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.8140695194255626,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2021-06-17 23:42:38",
+    "metadata": [],
+    "tag": "distiluse-bmc-v1",
+    "benchmark": "stsb-dev"
+}

@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "paraphrase-multilingual-MiniLM-L12-v2",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8567331120076469,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.8572152296014455,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2021-06-17 23:44:38",
+    "metadata": [],
+    "tag": "pp-minilm-m-l12v2",
+    "benchmark": "stsb-dev"
+}

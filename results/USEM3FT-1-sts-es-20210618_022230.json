@@ -1,0 +1,22 @@
+{
+    "class": "BasicTFHubSTSEvaluator",
+    "model_url": "saved_models/USEM3FT-1",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.5941974446250969,
+            "p-value": 2.974899642646669e-25
+        },
+        "spearman": {
+            "rho": 0.5633969687941192,
+            "p-value": 2.427438119289304e-22
+        }
+    },
+    "timestamp": "2021-06-18 02:22:35",
+    "metadata": [],
+    "tag": "USEM3FT-1",
+    "benchmark": "sts-es"
+}

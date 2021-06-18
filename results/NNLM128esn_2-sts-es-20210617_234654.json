@@ -1,22 +1,22 @@
 {
     "class": "BasicTFHubSTSEvaluator",
     "model_url": "https://tfhub.dev/google/nnlm-es-dim128-with-normalization/2",
-    "data_filename": "data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
     "used_minimal_normalization": null,
     "metric": "cosine",
     "scaled_scores": null,
     "evaluation": {
         "pearson": {
-            "r": 0.6209721356718408,
-            "p-value": 4.740979934149046e-28
+            "r": 0.6209721197161726,
+            "p-value": 4.740999014509157e-28
         },
         "spearman": {
-            "rho": 0.6335165815564952,
-            "p-value": 1.8621779503463038e-29
+            "rho": 0.6335024052713323,
+            "p-value": 1.8691598085240897e-29
         }
     },
-    "timestamp": "2021-06-14 23:53:11",
+    "timestamp": "2021-06-17 23:46:58",
     "metadata": [],
-    "tag": "nnlmes128n_2-stses-cos",
+    "tag": "NNLM128esn_2",
     "benchmark": "sts-es"
 }

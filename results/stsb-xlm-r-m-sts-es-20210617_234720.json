@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "stsb-xlm-r-multilingual",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8162640983221761,
+            "p-value": 4.8959258896083906e-61
+        },
+        "spearman": {
+            "rho": 0.8169092089116717,
+            "p-value": 3.305271155269828e-61
+        }
+    },
+    "timestamp": "2021-06-17 23:47:27",
+    "metadata": [],
+    "tag": "stsb-xlm-r-m",
+    "benchmark": "sts-es"
+}

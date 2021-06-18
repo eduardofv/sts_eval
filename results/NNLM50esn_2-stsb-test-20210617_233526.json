@@ -1,0 +1,22 @@
+{
+    "class": "BasicTFHubSTSEvaluator",
+    "model_url": "https://tfhub.dev/google/nnlm-es-dim50-with-normalization/2",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-test.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.17937948805558337,
+            "p-value": 1.9503833131949635e-11
+        },
+        "spearman": {
+            "rho": 0.1749776030129534,
+            "p-value": 6.053250903996887e-11
+        }
+    },
+    "timestamp": "2021-06-17 23:35:29",
+    "metadata": [],
+    "tag": "NNLM50esn_2",
+    "benchmark": "stsb-test"
+}

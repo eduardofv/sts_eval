@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "paraphrase-multilingual-mpnet-base-v2",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8774143394492705,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.883511772636628,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2021-06-17 23:43:59",
+    "metadata": [],
+    "tag": "pp-mpnet-m-b2",
+    "benchmark": "stsb-dev"
+}

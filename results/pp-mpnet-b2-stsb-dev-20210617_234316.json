@@ -1,13 +1,13 @@
 {
     "class": "SentenceTransformerSTSEvaluator",
     "model_url": "paraphrase-mpnet-base-v2",
-    "data_filename": "data/stsbenchmark/sts-dev.csv",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/sts-dev.csv",
     "used_minimal_normalization": null,
     "metric": "cosine",
     "scaled_scores": null,
     "evaluation": {
         "pearson": {
-            "r": 0.8872410032030107,
+            "r": 0.8872410045399229,
             "p-value": 0.0
         },
         "spearman": {
@@ -15,8 +15,8 @@
             "p-value": 0.0
         }
     },
-    "timestamp": "2021-06-14 23:59:49",
+    "timestamp": "2021-06-17 23:43:20",
     "metadata": [],
-    "tag": "pp_mpnet_base_2-stsb-cos",
-    "benchmark": "stsbenchmark"
+    "tag": "pp-mpnet-b2",
+    "benchmark": "stsb-dev"
 }

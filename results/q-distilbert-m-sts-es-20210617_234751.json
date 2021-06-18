@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "quora-distilbert-multilingual",
+    "data_filename": "/root/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.7495563313380673,
+            "p-value": 2.4617167438715845e-46
+        },
+        "spearman": {
+            "rho": 0.7638162429147402,
+            "p-value": 4.605459510106415e-49
+        }
+    },
+    "timestamp": "2021-06-17 23:47:55",
+    "metadata": [],
+    "tag": "q-distilbert-m",
+    "benchmark": "sts-es"
+}
