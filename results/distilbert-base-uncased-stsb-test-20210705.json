@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "distilbert-base-uncased",
+    "data_filename": "/root/data/stsbenchmark/sts-test.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.4427899793518924,
+            "p-value": 2.693307139482176e-67
+        },
+        "spearman": {
+            "rho": 0.42802191350657626,
+            "p-value": 1.5495476846857786e-62
+        }
+    },
+    "timestamp": "2021-07-05 22:42:39",
+    "metadata": [],
+    "tag": "distilbert-base-uncased",
+    "benchmark": "stsb-test"
+}
