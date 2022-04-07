@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "hiiamsid/sentence_similarity_spanish_es",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8510112128818133,
+            "p-value": 2.531912887787316e-71
+        },
+        "spearman": {
+            "rho": 0.8463167408114585,
+            "p-value": 8.7040507212634e-70
+        }
+    },
+    "timestamp": "2022-04-07 22:53:47",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "sts-es"
+}

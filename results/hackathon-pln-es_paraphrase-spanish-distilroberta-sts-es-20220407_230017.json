@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "hackathon-pln-es/paraphrase-spanish-distilroberta",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8326770880317342,
+            "p-value": 1.3383325563841998e-65
+        },
+        "spearman": {
+            "rho": 0.8448806976737491,
+            "p-value": 2.5085307451886164e-69
+        }
+    },
+    "timestamp": "2022-04-07 23:00:26",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "sts-es"
+}

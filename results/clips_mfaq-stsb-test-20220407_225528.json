@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "clips/mfaq",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/sts-test.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.16784079067712268,
+            "p-value": 3.572714289679408e-10
+        },
+        "spearman": {
+            "rho": 0.5722174479157935,
+            "p-value": 9.336915328139678e-121
+        }
+    },
+    "timestamp": "2022-04-07 22:56:09",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "stsb-test"
+}

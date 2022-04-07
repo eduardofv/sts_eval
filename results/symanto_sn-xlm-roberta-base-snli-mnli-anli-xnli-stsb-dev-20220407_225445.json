@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "symanto/sn-xlm-roberta-base-snli-mnli-anli-xnli",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8005300210565995,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.7982017689992572,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2022-04-07 22:54:57",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "stsb-dev"
+}

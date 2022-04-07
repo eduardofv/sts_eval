@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "hackathon-pln-es/bertin-roberta-base-finetuning-esnli",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.8409314419730624,
+            "p-value": 4.364378156941417e-68
+        },
+        "spearman": {
+            "rho": 0.8350925641179535,
+            "p-value": 2.5892249205992515e-66
+        }
+    },
+    "timestamp": "2022-04-07 22:52:34",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "sts-es"
+}

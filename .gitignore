@@ -9,6 +9,7 @@
 .Trash*
 __pycache__
 logs/
+local/
 docker_images/
 tmp/
 saved_models/

@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "hackathon-pln-es/jurisbert-tsdae-sentence-transformer",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.6396963500624087,
+            "p-value": 3.576092944817919e-30
+        },
+        "spearman": {
+            "rho": 0.6376921879926597,
+            "p-value": 6.132015139538792e-30
+        }
+    },
+    "timestamp": "2022-04-07 22:59:14",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "sts-es"
+}

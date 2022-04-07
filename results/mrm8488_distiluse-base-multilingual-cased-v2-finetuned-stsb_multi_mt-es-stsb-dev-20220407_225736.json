@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "mrm8488/distiluse-base-multilingual-cased-v2-finetuned-stsb_multi_mt-es",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/sts-dev.csv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.7936590473738947,
+            "p-value": 0.0
+        },
+        "spearman": {
+            "rho": 0.793154612495736,
+            "p-value": 0.0
+        }
+    },
+    "timestamp": "2022-04-07 22:57:44",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "stsb-dev"
+}

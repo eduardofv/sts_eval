@@ -1,0 +1,22 @@
+{
+    "class": "SentenceTransformerSTSEvaluator",
+    "model_url": "clips/mfaq",
+    "data_filename": "/content/sts_eval/data/stsbenchmark/STS2017.track3.es-es.tsv",
+    "used_minimal_normalization": null,
+    "metric": "cosine",
+    "scaled_scores": null,
+    "evaluation": {
+        "pearson": {
+            "r": 0.6958684081164578,
+            "p-value": 1.6002029653085328e-37
+        },
+        "spearman": {
+            "rho": 0.714254797407182,
+            "p-value": 2.6031948882800126e-40
+        }
+    },
+    "timestamp": "2022-04-07 22:56:57",
+    "metadata": [],
+    "tag": "",
+    "benchmark": "sts-es"
+}
