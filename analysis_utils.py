@@ -34,6 +34,8 @@ def get_benchmark_df(evaluations, benchmark, metric="cosine", eval_metric="pears
             value = ev['evaluation']
             value = value['pearson']['r'] if eval_metric == 'pearson' \
                 else value['spearman']['rho']
+            if ev['tag'] == "":
+                ev['tag'] = ev['model_url']
             benchmark_data[ev['tag']] = {
                 'value': value,
                 'timestamp': ev['timestamp'],
